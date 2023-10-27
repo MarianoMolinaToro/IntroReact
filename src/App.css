@@ -1,0 +1,53 @@
+.titulo {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.galeria {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.card > img {
+  padding-top: 25px;
+  padding-inline: 25px; }
+
+  .div-card {
+    padding: 30px;
+  }
+  .badge {
+    width: 100%;
+   
+  }
+
+  .my-tags {
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+  }
+
+  footer {
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .foot {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+  }
+
+  .my-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    align-items: center; 
+    height: 200px
+   
+  }
